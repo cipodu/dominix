@@ -25,12 +25,14 @@ markdown_extensions:
     #  - Research: research.html
 
 extra_javascript:
-  # - https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js
-  # - https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js
+  # - js/katex/dist/katex.min.js
+  # - js/katex/dist/contrib/auto-render.min.js
   # - js/math.js  # We'll create this
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - js/mathjax/es5/tex-mml-chtml.js
 
 
 extra_css:
-  - https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css
+  - js/katex/dist/katex.min.css
+
+hooks:
+  - hooks/copy_assets.py

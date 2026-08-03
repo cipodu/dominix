@@ -10,6 +10,9 @@
 - source env/bin/activate
 - deactivate
 
+- Build: docker build -t arbitriologia .
+- Run: docker run -p 8080:80 arbitriologia
+
 ## Requirements
 
 - pip freeze > requirements.txt

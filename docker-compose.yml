@@ -1,0 +1,7 @@
+services:
+  arbitriologia:
+    image: ghcr.io/csiglab/arbitriologia:latest
+    container_name: arbitriologia
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8080:80"

@@ -1,0 +1,13 @@
+.git
+.gitignore
+.vscode
+env
+.venv
+web/site
+data
+research
+img
+operation
+scripts
+Makefile
+build.sh

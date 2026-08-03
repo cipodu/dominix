@@ -14,6 +14,9 @@ web/site
 *.egg
 *.egg-info/
 dist/
+!web/js/katex/
+!web/js/katex/dist/
+!web/js/katex/dist/**
 build/
 eggs/
 parts/
