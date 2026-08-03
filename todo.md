@@ -1,9 +1,25 @@
+- [ ] What underlies the production of new products? What kind of  of change in the social field allows this some type of capital (production factor) accumulation, labor, surplus in other sectors, ...?
+- [ ] Does the economist used the factor of money -  in economic growth models?
+- [ ] What do economist mean by efficient capital alocation?  (This is mostly garbage -  if we go deep)
+- [ ] How to think about the external restriction? - A **Terrible** Concept.
+- [ ] Social Action: Research, Academic and Industry Sectors One-plus Scheme (RAISe+) - https://www.itf.gov.hk/en/raiseplus.
+- [ ] Social Action Hierarchy:
+    - [ ] Scheme
+    - [ ] Program
+    - [ ] Initivative
+- [] In the stablishment of the Technique Space Evolution mechanism  - one need to take care of:
+    -  The technique evolution lifecycle.
+    -  The technique distance from the current used.
+    -  etc.
+    -  The German froundhogver - focus to much on technique that are near the current application (short cycle tech) - they will miss - technique subset - far - like quamtumg technologies, ai, etc - https://seedsoftime.substack.com/p/how-germany-lost-the-technological
+    -  https://asteriskmag.com/issues/13/the-institute-behind-taiwan-s-chip-dominance
+    -  Should We have Only `Research for Industry Firms`. - That can spin of firms.
+    -  The talent should flow between gov - and firms  - https://asteriskmag.com/issues/13/the-institute-behind-taiwan-s-chip-dominance
+    -  So think very hard - no how to concienive the DR.  `Technique Space Evolution mechanism` - and how wil they be effective in multiple modes of technique evolution - for all kinds of necessites - from the very prescent - to the very future.
+- [ ] https://www.eastisread.com/p/the-politics-of-policy-research-in
 - https://www.cs.princeton.edu/courses/archive/spr09/cos444/papers/bulow_klemperer96
 - https://en.wikipedia.org/wiki/National_Bar_Association
 - Hierarchy - Organization - Delegation
-
-![image.png](attachment:bf44ded6-d031-470f-9f11-9f57a8a14c51:image.png)
-
 - https://en.wikipedia.org/wiki/Shirley_Institute → British Industry Association Research Institutes. https://en.wikipedia.org/wiki/Industrial_Organisation_and_Development_Act_1947 https://en.wikipedia.org/wiki/Cotton_Board_(United_Kingdom)
 - How to automate HR in **Large Scale** Systems? → Choosing People;  Transfering People;  Elevando Personas de Nivel.
 - Gifted School Education → …
@@ -17,41 +33,40 @@
 - https://asiasociety.org/policy-institute/xis-personal-priorities-what-matters-most-chinas-leader https://endnotes.org.uk/posts/forest-and-factory…
 - https://en.wikipedia.org/wiki/Thiel_Fellowship Investigate This Institution - What is the Underlying Social Technology.
 - Social Technology → …
-- https://en.wikipedia.org/wiki/Business_Development_Company Cool Financial Technology Coming from the US → Invest in Medium Size Firms and  We Wont Take Your Taxes.
+- https://en.wikipedia.org/wiki/Business_Development_Company
+- Cool Financial Technology Coming from the US → Invest in Medium Size Firms and  We Wont Take Your Taxes.
 
 - [ ]  Capital Markets:
     - [ ]  https://notesfrompoland.com/2025/08/07/poland-to-launch-tax-free-personal-investment-accounts-up-to-100000-zloty/
     - [ ]  https://en.wikipedia.org/wiki/Individual_savings_account
 
-https://www.isa.ulisboa.pt/
+- https://www.isa.ulisboa.pt/
+- https://someunpleasant.substack.com/p/why-why-nations-fail-fails#footnote-anchor-2-75435328
+- https://www.strategyand.pwc.com/m1/en/strategic-foresight/sector-strategies/public-sector/industrial-policy/industrial-policy.pdf
 
-https://someunpleasant.substack.com/p/why-why-nations-fail-fails#footnote-anchor-2-75435328
+- Slovakia:
 
-https://www.strategyand.pwc.com/m1/en/strategic-foresight/sector-strategies/public-sector/industrial-policy/industrial-policy.pdf
+    - https://www.sario.sk/en
+    - Automotive Cluster Slovakia (ACS)
+    - [ ]  https://www.apprenticeship.gov/
+    - [ ]  https://www.nber.org/system/files/working_papers/w19614/w19614.pdf
 
-Slovakia:
+- Market:
 
-- https://www.sario.sk/en
-- Automotive Cluster Slovakia (ACS)
-- [ ]  https://www.apprenticeship.gov/
-- [ ]  https://www.nber.org/system/files/working_papers/w19614/w19614.pdf
+    - What do we mean by a well functioning market?
+    - What is a competitive market?
+    - [ ]  https://www.futuretimeline.net/ https://www.historicaltechtree.com/
 
-Market:
+- https://corfo.cl/sites/cpp/convocatorias_programas_innovacion/
 
-- What do we mean by a well functioning market?
-- What is a competitive market?
-- [ ]  https://www.futuretimeline.net/ https://www.historicaltechtree.com/
-
-https://corfo.cl/sites/cpp/convocatorias_programas_innovacion/
-
-https://www.industriales.upm.es/
+- https://www.industriales.upm.es/
 
 - [ ]  https://en.wikipedia.org/wiki/Institute_of_Technical_Education
 - [ ]  Ethiopia Analysis: https://addisstandard.com/news-ethiopia-unveils-first-ever-industrial-strategy-to-boost-domestic-production-reduce-imports/
     - [ ]  https://dbe.com.et/
     - [ ]  
 
-https://www.project-syndicate.org/commentary/latin-america-shows-incremental-fiscal-reforms-more-effective-than-austerity-by-ana-maria-ibanez-and-marta-ruiz-arranz-2025-08
+- https://www.project-syndicate.org/commentary/latin-america-shows-incremental-fiscal-reforms-more-effective-than-austerity-by-ana-maria-ibanez-and-marta-ruiz-arranz-2025-08
 
 - [ ]  https://www.fredgao.com/p/yu-yongding-defends-investment-led
 - [ ]  https://www.pekingnology.com/p/china-massively-overbuilt-high-speed
@@ -61,41 +76,35 @@ https://www.policyarena.org/p/three-cheers-for-industrial-policy
 - [ ]  https://www.orfonline.org/expert-speak/labour-intensive-product-exports-need-attention
 - [ ]  https://the-ken.com/story/how-dubai-suddenly-became-indian-manufacturers-china-alternative/ Look at this pattern, it’s a very natural one the UAE, money; and india talent; good for both.
 
-![image.png](attachment:9ff61f96-547e-4454-9a0b-283fc84af0cd:image.png)
-
-https://sunypoly.edu/research/albany-nanotech-complex.html
+- https://sunypoly.edu/research/albany-nanotech-complex.html
 
 - [ ]  https://paulogala.substack.com/p/mito-brasil-cafeeiro-cadeia-valor-global?r=2nelwz&triedRedirect=true
 
-https://www.gov.cn/zhengce/content/202508/content_7037861.htm - China AI Plan 2025
+- https://www.gov.cn/zhengce/content/202508/content_7037861.htm - China AI Plan 2025
 
-https://www.budget.gov.hk/2025/eng/index.html
+- https://www.budget.gov.hk/2025/eng/index.html
 
 - [ ]  https://en.wikipedia.org/wiki/College_Scholastic_Ability_Test
 
-> The core driver of societal development is the evolution of the technical toolbox — the cumulative set of techniques, tools, and capabilities (a “technical genome”). This toolbox becomes institutionalized and embodied in firms and networks of firms, which organize production. These structures apply the toolbox to produce goods and services that solve problems in increasingly effective and efficient ways.
-> 
+-  The core driver of societal development is the evolution of the technical toolbox — the cumulative set of techniques, tools, and capabilities (a “technical genome”). This toolbox becomes institutionalized and embodied in firms and networks of firms, which organize production. These structures apply the toolbox to produce goods and services that solve problems in increasingly effective and efficient ways.
+
 - [ ]  https://en.wikipedia.org/wiki/Morrill_Land-Grant_Acts
 - [ ]  Insurance Industry
 
-https://ror.org/
+- https://ror.org/
 
 - [ ]  What makes a human?
 
-**Wen Jiaboa** was a card-carrying geologist. “Wen Jiabao’s Geological Notes” 温家宝地质笔记, published in 2015 after he stepped down, includes his journal entries while working as a surveyor at the Gansu geological bureau.
+- **Wen Jiaboa** was a card-carrying geologist. “Wen Jiabao’s Geological Notes” 温家宝地质笔记, published in 2015 after he stepped down, includes his journal entries while working as a surveyor at the Gansu geological bureau.
 
 - [ ]  [https://static1.squarespace.com/static/64c673afe5b32a27b503f899/t/64c6a603f4fecb608b95751e/1690740228041/Chan+(2022)+The+Organizational+Roots+of+State+Capacity+-+Comparing+Railway+Bureaucracies+in+China+and+India.pdf](https://static1.squarespace.com/static/64c673afe5b32a27b503f899/t/64c6a603f4fecb608b95751e/1690740228041/Chan+%282022%29+The+Organizational+Roots+of+State+Capacity+-+Comparing+Railway+Bureaucracies+in+China+and+India.pdf)
 - https://ifp.org/benchmarking-for-breakthroughs/
 
-Technical Object: Client - User Synergy
-
-![image.png](attachment:2c686d0e-3f04-4cca-9b13-a3aa85c71fe3:image.png)
+- Technical Object: Client - User Synergy
 
 - Sweden XIX Century Great Power Competition Strategy
 
-Sweden Civil Service Development
-
-> The Swedish civil service is best understood as a **gradually emergent institution**: its stability, neutrality, and professionalism are the result of **centuries of incremental adaptation, layering, and institutional learning**, rather than a single plan.
+- Sweden Civil Service Development:  > The Swedish civil service is best understood as a **gradually emergent institution**: its stability, neutrality, and professionalism are the result of **centuries of incremental adaptation, layering, and institutional learning**, rather than a single plan.
 > 
 
 | **Period** | **Key Document / Reform** | **Description / Impact** | **Significance** |

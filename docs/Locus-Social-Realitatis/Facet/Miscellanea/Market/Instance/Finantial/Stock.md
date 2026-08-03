@@ -4,16 +4,52 @@
 
 QA:
 
-- How are prices formed in the short term? What roles do order flow, liquidity, and noise traders play?
-- How are prices formed in the long term, and how do they relate to fundamental values such as earnings, dividends, or growth potential?
-- Does the stock market efficiently aggregate information, and over what timescales does this efficiency emerge?
-- What is the relationship between market microstructure effects and observed volatility or apparent randomness?
-- How does the market reflect risk perception and uncertainty among participants?
-- What behavioral patterns—herding, overreaction, or speculation—distort price signals?
-- How do institutional structures, such as circuit breakers, high-frequency trading, or margin rules, influence market stability?
-- How do feedback loops between prices, liquidity, and investor behavior create bubbles or crashes?
-- How does the market as a system interact with the broader economy, monetary policy, and global capital flows?
-- What are the **limits of modeling** the stock market, given its complex social, informational, and technical layers?
+- How are asset prices formed in the short run through order flow, liquidity provision, and trading frictions?
+- What roles do informed traders, liquidity traders, and noise traders play in short-term price dynamics?
+- How do bid–ask spreads, market depth, and order book structure influence price movements?
+- How is order flow translated into price changes in continuous double-auction markets?
+- How are prices formed in the long run, and how do they relate to fundamentals such as earnings, cash flows, dividends, and growth expectations?
+- How do discount rates and risk premia evolve over time and shape valuation?
+- Why do persistent deviations from fundamental value occur, and what determines their duration?
+- To what extent do markets efficiently aggregate dispersed information into prices?
+- Over what timescales does informational efficiency emerge or break down?
+- How do asymmetric information, attention limits, and learning dynamics affect price efficiency?
+- How do markets encode and respond to risk perception and Knightian uncertainty?
+- What behavioral mechanisms (herding, overreaction, underreaction, extrapolation, speculation) systematically distort prices?
+- How do sentiment, narratives, and reflexive expectations affect valuation dynamics?
+- What portion of observed volatility arises from information arrival versus endogenous market noise?
+- How do microstructure effects generate apparent randomness in returns?
+- What statistical regularities (fat tails, volatility clustering, jumps) emerge from trading processes?
+- How do institutional structures (margin requirements, short-selling constraints, circuit breakers) affect liquidity, stability, and price discovery?
+- What is the role of high-frequency trading in both liquidity provision and instability amplification?
+- How do regulatory constraints shape volatility and market resilience?
+- How do feedback loops between prices, leverage, liquidity, and investor behavior generate bubbles and crashes?
+- Under what conditions do liquidity spirals and reflexive dynamics emerge?
+- How do margin calls and forced deleveraging propagate shocks through the system?
+- What economic function do stock markets serve for firms beyond capital raising?
+- Why is maintaining a high or stable stock price strategically important even without issuing new equity?
+- How do dividends, share buybacks, and retained earnings influence investor demand and valuation?
+- What happens when firms do not distribute cash flows through dividends or buybacks over long periods?
+- Why do individuals hold stocks rather than immediately liquidating them?
+- What are the main types of stocks (common, preferred, dual-class, etc.), and how do their rights differ?
+- How many economically meaningful equity classes exist beyond legal classifications?
+- Can entirely new forms of equity be created (e.g., tokenized shares, synthetic equity, derivative-based claims), and what constraints limit this?
+- How do stock prices influence real economic decisions such as investment, hiring, and mergers and acquisitions?
+- How does mispricing affect capital allocation across firms and sectors?
+- How do arbitrage, acquisition, and rebalancing mechanisms allow agents to exploit or correct mispricing?
+- What determines the ability of investors to “exit” overvalued or undervalued equity positions?
+- How do equity markets interact with macroeconomic variables such as monetary policy, interest rates, credit conditions, and global capital flows?
+- How do changes in interest rates propagate into equity valuation and risk-taking behavior?
+- What are the fundamental limits of modeling stock markets given their adaptive, reflexive, and multi-agent structure?
+- Which aspects of market behavior are predictable, and which are structurally unpredictable?
+- To what extent can equilibrium-based models capture non-equilibrium market dynamics?
+- What epistemic limits arise from reflexivity, where models influence the system they describe?
+- What is the role of stock price dynamics on market structure? Let say a firm - which is current value at multiple multple of it's current cash flow - by various reasons - including complex dynamics - liek we made a mistake - but lets keep the game - and see how can you opt out - used that money to buy firms, etc?
+- What is the role of stocks for firms?
+- Why even if a firm does not benefits from stocks - why it;'s it is useful to keep the price of it?
+- What happens when the stock price stabilizes? What happens if the firm does not do stocks buy back, or dividents, else? Why individuals holds to there stock?
+- Why even if a firm does not benefits from stocks - why it;'s it is useful to keep the price of it?
+- How many types of stocks can they be? Can I create new classes of stocks on the flight?
 
 ## Formulation
 
@@ -67,7 +103,6 @@ QA:
 | **Liquidity Shock**            | Abrupt decrease in market liquidity, making trades costly or difficult.                                                                                 |
 | **Regime Shift**               | Fundamental change in market behavior due to macroeconomic, policy, or structural factors (e.g., moving from low-volatility to high-volatility regime). |
 | **Herding / Bubble Formation** | Collective investor behavior driving prices away from fundamentals, often followed by correction or crash.                                              |
-
 
 ## Stock Market Role
 

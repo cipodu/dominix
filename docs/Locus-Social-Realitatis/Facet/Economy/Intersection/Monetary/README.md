@@ -65,6 +65,13 @@ In a fiscally dominant situation, the central bank may not have the independence
 
 Fiscal dominance is generally considered undesirable, as it can lead to inflationary pressures, high levels of public debt, and economic instability. Central banks typically aim to maintain their independence from fiscal policy to pursue their monetary policy objectives effectively.
 
+## QA
+
+### How to think about the interaction between two monetary areas?
+
+- How to think about currency exchagne value?
+- How to think about monetary effect propagation across currency areas? Take the case of inflation?
+
 ## References
 
 - The Narrow Corridor: States, Societies, and the Fate of Liberty: [https://amzn.to/3gr6pSV](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjIza243S1hJZHpXWFdReDQ5NGhQeEh5RHpKZ3xBQ3Jtc0tuZlZNMVY5a3lGc1piZkdxQjloc2tFaFlUcHA3cVhBUHhUYVRNcHhtZ2RIQm85d1AybEhjZ0JpX0d3c3NXZnh2Y2NNWVA1WjJ4aVhBUFAtZTZWVHBWT2hwenk0dS1HNGRiY2R3enhZTFRuOUZ1UjZtOA&q=https%3A%2F%2Famzn.to%2F3gr6pSV&v=0TBAJb-O2Oo)

@@ -14,6 +14,14 @@ QA:
 - What are the fundamental constraints and scalability boundaries inherent to self-organizing systems, particularly in terms of structural complexity, coordination capacity, and emergent behavior? To what extent can self-organizing architectures scale without centralized coordination, and what structural thresholds or emergent bottlenecks constrain their performance and coherence?
 - How can one simulate the dynamics of social reality, and to what extent does structure (complex interaction units) emerge as an endogenous property of social interactions?
 
+- A Model of Agentic Driven Social Change :
+
+  - Which metaphor can captuer this?
+  - How to change change?
+  - Why not introduce change - and only inducing the change of change?
+  - How the change of change affectg myself?
+  - ...
+
 ## Formulation
 
 > How do we co-evolve a socio-economic region capable of satisfying human needs and desires—fundamentally developing cognitive capacities, not merely serving as a tertiary support to other economic regions?
@@ -118,3 +126,5 @@ QA:
 - [The Collective Action Problem](../Breviarium/collective-action-problem.md)
 - [The Agent–Social-Reality Hard Coupling Problem](../Breviarium/agent-social-reality-hard-coupling-problem.md)
 - [Techno-Productivist Agential Principle Set (T-PAPS)](../Breviarium/techno-productivist-agential-principle-set.md)
+- [Agency](../Locus-Social-Realitatis/Onto/Guide/Agency.md)
+- [Action](../Locus-Social-Realitatis/Onto/Guide/Action.md)

@@ -1,13 +1,5 @@
 # Guide
 
-<!-- :::info Redirecting
-[Click here if you are not redirected automatically.](meta/readme.md)
-::: -->
-
-<!-- <script>
-  window.location.href = './Meta/Libro-Mayor/';
-</script> -->
-
 > **Welcome to Laboratorio Arbitereria**: A space for structured inquiry, technical reasoning, and transformative imagination of social reality.
 
 Our mission unfolds through three interconnected realms:

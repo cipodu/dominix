@@ -20,6 +20,5 @@
 
 ## References
 
-- https://en.wikipedia.org/wiki/Exchange_rate
-- https://en.wikipedia.org/wiki/Exchange_rate_regime
-- …
+- [Exchange Rate](https://en.wikipedia.org/wiki/Exchange_rate)
+- [Exchange Rate Regime](https://en.wikipedia.org/wiki/Exchange_rate_regime)
