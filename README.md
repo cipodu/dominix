@@ -26,7 +26,10 @@ find . -type f -not -path './env/**' -not -path  './.*' | shuf -n 1
 
 ## Build
 
-...
+- See `Dockerfile`.
+- `docker pull <original-image>`
+- `docker tag <original-image> <your-name>:<your-tag>`
+- `docker run --name  <container name> -d -p 8081:<container process port> <your-name>:<your-tag>`
 
 ## References
 
