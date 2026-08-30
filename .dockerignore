@@ -11,3 +11,4 @@ operation
 scripts
 Makefile
 build.sh
+deploy.sh
